@@ -3,3 +3,4 @@ streamlit
 Pillow
 python-dotenv
 nltk
+matplotlib
